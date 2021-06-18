@@ -1,0 +1,11 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "ec27c364-cad7-4475-852f-6435243d4e87"
+  welcome:
+    showOnStartup: false

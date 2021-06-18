@@ -1,0 +1,59 @@
+{
+  "_from": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+  "_id": "codesync@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-G5CSEsZP3GzchZTKl8vLR85fqaSFHXX+UqpI5hJz6YQeKRlNrJy196TMsl+0MPrOK3QGkYeOaRqBsc1W1R4W/Q==",
+  "_location": "/codesync",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+  "_shasum": "99ceefad3ceb9444d9c15e48b89dfd0787a0c839",
+  "_spec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
+  "_where": "/private/var/folders/lt/7j0swcl55qb9r1xjjgv_2cxw0000gn/T/apm-install-dir-2021517-7753-1p0ge5.knc86",
+  "bugs": {
+    "url": "https://github.com/codesyncapp/codesync-atom/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aws-sdk": "^2.927.0",
+    "current-git-branch": "^1.1.0",
+    "dateformat": "^4.4.1",
+    "diff-match-patch": "^1.0.5",
+    "ignore": "^5.1.8",
+    "isbinaryfile": "^4.0.8",
+    "js-yaml": "^3.14.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "untildify": "^4.0.0",
+    "walk": "^2.3.14",
+    "websocket": "^1.0.34"
+  },
+  "deprecated": false,
+  "description": "Sync your code changes as you make them",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0",
+    "node": "15.13.0",
+    "npm": "7.7.6"
+  },
+  "homepage": "https://github.com/codesyncapp/codesync-atom#readme",
+  "icon": "https://codesync-images.s3.amazonaws.com/icon.png",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/codesync",
+  "name": "codesync",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesyncapp/codesync-atom.git"
+  },
+  "version": "2.2.0"
+}
