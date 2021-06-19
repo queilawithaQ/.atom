@@ -1,10 +1,18 @@
 "*":
   core:
+    closeDeletedFileTabs: true
     telemetryConsent: "no"
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"
     ]
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    zoomFontWhenCtrlScrolling: true
   "exception-reporting":
     userId: "ec27c364-cad7-4475-852f-6435243d4e87"
   welcome:
