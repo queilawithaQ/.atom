@@ -1,25 +1,25 @@
 {
-  "_from": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-  "_id": "codesync@2.2.0",
+  "_from": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+  "_id": "codesync@2.3.0",
   "_inBundle": false,
-  "_integrity": "sha512-G5CSEsZP3GzchZTKl8vLR85fqaSFHXX+UqpI5hJz6YQeKRlNrJy196TMsl+0MPrOK3QGkYeOaRqBsc1W1R4W/Q==",
+  "_integrity": "sha512-vhhrImUbpOj/q+NcsNTgI5RoeavtwiLjG4zeqa2Uatsu9OxM/o9/RXINvETX8melxcIRXs1VD2+hn2MzXWcYDg==",
   "_location": "/codesync",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
-    "raw": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-    "rawSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-    "saveSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-    "fetchSpec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball"
+    "raw": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-  "_shasum": "99ceefad3ceb9444d9c15e48b89dfd0787a0c839",
-  "_spec": "https://www.atom.io/api/packages/codesync/versions/2.2.0/tarball",
-  "_where": "/private/var/folders/lt/7j0swcl55qb9r1xjjgv_2cxw0000gn/T/apm-install-dir-2021517-7753-1p0ge5.knc86",
+  "_resolved": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+  "_shasum": "6c9969afae2ed4004eeaef15fcb2f8c51c24c422",
+  "_spec": "https://www.atom.io/api/packages/codesync/versions/2.3.0/tarball",
+  "_where": "/private/var/folders/lt/7j0swcl55qb9r1xjjgv_2cxw0000gn/T/apm-install-dir-2021518-11801-10r0ibf.9kdt",
   "bugs": {
     "url": "https://github.com/codesyncapp/codesync-atom/issues"
   },
@@ -55,5 +55,5 @@
     "type": "git",
     "url": "git+https://github.com/codesyncapp/codesync-atom.git"
   },
-  "version": "2.2.0"
+  "version": "2.3.0"
 }
