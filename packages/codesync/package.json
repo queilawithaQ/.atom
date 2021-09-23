@@ -35,7 +35,7 @@
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "untildify": "^4.0.0",
-    "walk": "^2.3.14",
+    "walk": "^2.3.15",
     "websocket": "^1.0.34"
   },
   "deprecated": false,
