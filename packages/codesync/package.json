@@ -33,7 +33,7 @@
     "isbinaryfile": "^4.0.8",
     "js-yaml": "^3.14.1",
     "lodash": "^4.17.21",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "untildify": "^4.0.0",
     "walk": "^2.3.14",
     "websocket": "^1.0.34"
